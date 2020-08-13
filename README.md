@@ -14,7 +14,7 @@ Finally, the instantaneous phase were estimated by i) bidirectional bandpass fil
 	
 
 		
-The bandpass filtering reduces the low-frequency drift and high-frequency variability in CIx to generate a more consistent subsequent phase estimate.  The condition-independent phase (CIf) thus represents the instantaneous phase in the dimension of the neural space that has the most cyclic, condition-independent activity.  
+The bandpass filtering reduces the low-frequency drift and high-frequency variability in CIx to generate a more consistent subsequent phase estimate.  The condition-independent phase (CIphi) thus represents the instantaneous phase in the dimension of the neural space that has the most cyclic, condition-independent activity.  
 
 Adam G. Rouse
 arouse@kumc.edu
